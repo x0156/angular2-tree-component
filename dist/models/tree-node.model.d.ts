@@ -1,4 +1,4 @@
-/// <reference types="core-js" />
+
 import { ElementRef } from '@angular/core';
 import { TreeModel } from './tree.model';
 import { TreeOptions } from './tree-options.model';
